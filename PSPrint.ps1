@@ -1,2 +1,2 @@
 Write-Host print "hello molina.mhc"
-Write-Host print "testing mmc/testing1"
+Write-Host print "testing mmc\testing1"
